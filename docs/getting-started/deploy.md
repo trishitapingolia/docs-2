@@ -51,6 +51,7 @@ To use your code locally, you'll need to have [Node v14](https://nodejs.org/en/d
 To start using your app, extract the ZIP file to a local folder and execute the following commands:
 
 ```
+cd server
 npm i
 npm run docker:db
 npm run db:init
