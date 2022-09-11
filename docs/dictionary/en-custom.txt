@@ -65,3 +65,6 @@ Posthog
 httpclientmodule
 authservice
 tasksservice
+upsert
+dto
+transpilation
